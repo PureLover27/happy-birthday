@@ -1,13 +1,13 @@
 {
   "greeting": "Hiya",
-  "name": "Lydia",
-  "greetingText": "I really like your name btw!",
-  "wishText": "May the js.prototypes always be with you! ;)",
+  "name": "甘雨菁",
+  "greetingText": "下雨之后郁郁葱葱的树和绿绿的草地~",
+  "wishText": "祝我们将来一直在一起~",
   "imagePath": "img/lydia2.png",
-  "text1": "It's your birthday!!! :D",
-  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "text1": "今天是你的生日啦！",
+  "textInChatBox": "宝贝生日快乐!! 每天都要快乐嗷...",
   "sendButtonLabel": "Send",
-  "text2": "That's what I was going to do.",
+  "text2": "That's what I am going to do.",
   "text3": "But then I stopped.",
   "text4": "I realised, I wanted to do something",
   "text4Adjective": "special",
@@ -17,7 +17,6 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "outroText": "嘿嘿，还有半年就可以在香港愉快玩耍啦！冲冲冲！",
   "outroSmiley": ":)"
 }
