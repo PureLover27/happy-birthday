@@ -2,7 +2,7 @@
   "greeting": "Hiya",
   "name": "甘雨菁",
   "greetingText": "下雨之后郁郁葱葱的树和绿绿的草地~",
-  "wishText": "祝我们将来一直在一起~",
+  "wishText": "这张照片好好看嘿嘿！祝我们将来一直在一起~",
   "imagePath": "img/yujing.png",
   "text1": "今天是你的生日啦！",
   "textInChatBox": "宝贝生日快乐!! 每天都要快乐嗷...",
@@ -18,5 +18,6 @@
   "bigTextPart2": "以",
   "wishHeading": "Happy Birthday!",
   "outroText": "嘿嘿，还有半年就可以在香港愉快玩耍啦！冲冲冲！",
+  "replayText": "点这可以重播嗷^",
   "outroSmiley": ":)"
 }
